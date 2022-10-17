@@ -24,6 +24,8 @@ You can find more details about my career like history, certifications, and orga
 
 You can find some code that I shared in my [GitHub Profile](https://github.com/grstavares).
 
+I don't pay too much attention, but I try to answer some questions in [Stack Overflow](https://stackoverflow.com/users/6471284/gustavo-tavares) when possible.
+
 I don't tweet to much, by I constantly retweet things related to Serverless, Brazilian Politics, European Politics and random jokes and memes at [@grstavares](https://twitter.com/grstavares).
 
 My most active social network is [Untapped](https://untappd.com/user/grstavares).
