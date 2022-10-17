@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**grstavares/grstavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gustavo, here are some highlights of my code career.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I started around 1996, developing a Visual Basic with MS Access Networked Application.
+- I worked as DBA of the first Multi-Master Oracle Database-based Application in Brazil.
+- I connected a Lotus Notes/Domino application running on Win to a DB2 database running on Mainframe using MS SNA Server.
+- I worked as a Quality System Administrator in a CMMi level 5 company in Brazil.
+- I worked implementing an IT Outsource for a global Bank (+12 countries).
+- I worked in defining and managing IT Operation processes (ITIL) for one of the biggest Brazilian Telecoms.
+- I worked in defining and managing IT Operation processes (ITIL) for one medium Brazilian Commercial Bank.
+- I directed the IT department of the Brazilian Paralympics Sports Organization.
+- I worked consulting for multiple Brazilian Federal Government Agencies (Health, Justice, Electoral High Court, Legislative Chamber).
+- I used the first _Serverless_ framework that was created in [AWS JAWS](https://aws.amazon.com/blogs/compute/getting-started-with-jaws-on-amazon-web-services/).
+- I put two full _Serverless_ applications in production (one web shop and one Enterprise Application).
+- I'm a [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/)
