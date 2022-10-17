@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![Profile Image](https://avatars.githubusercontent.com/u/19957969?v=4)
+
 I'm Gustavo, here are some highlights of my code career.
 
 - I started around 1996, developing a Visual Basic with MS Access Networked Application.
@@ -16,4 +18,14 @@ I'm Gustavo, here are some highlights of my code career.
 - I put two full _Serverless_ applications in production (one webshop and one Enterprise Application).
 - I'm a [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/)
 
+## Social Presence
+
 You can find more details about my career like history, certifications, and organizations at my [LinkedIn profile](https://www.linkedin.com/in/gustavares/).
+
+You can find some code that I shared in my [GitHub Profile](https://github.com/grstavares).
+
+I don't tweet to much, by I constantly retweet things related to Serverless, Brazilian Politics, European Politics and random jokes and memes at [@grstavares](https://twitter.com/grstavares).
+
+My most active social network is [Untapped](https://untappd.com/user/grstavares).
+
+I'm helping organizing Serverless meetups together with some friends at the [Serverless Berlin Meetup](https://www.meetup.com/serverless-berlin/) group.
