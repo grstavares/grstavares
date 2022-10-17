@@ -4,7 +4,7 @@ I'm Gustavo, here are some highlights of my code career.
 
 - I started around 1996, developing a Visual Basic with MS Access Networked Application.
 - I worked as DBA of the first Multi-Master Oracle Database-based Application in Brazil.
-- I connected a Lotus Notes/Domino application running on Win to a DB2 database running on Mainframe using MS SNA Server.
+- I connected a Lotus Notes/Domino application on Win to a Mainframe DB2 database using SNA Server.
 - I worked as a Quality System Administrator in a CMMi level 5 company in Brazil.
 - I worked implementing an IT Outsource for a global Bank (+12 countries).
 - I worked in defining and managing IT Operation processes (ITIL) for one of the biggest Brazilian Telecoms.
