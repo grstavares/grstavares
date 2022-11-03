@@ -19,7 +19,7 @@ I'm Gustavo, here are some highlights of my code career.
 
 ## Social Presence
 
-You can find more details about my career like history, certifications, and organizations in my [LinkedIn](https://www.linkedin.com/in/gustavares/) profile](<https://www.linkedin.com/in/gustavares/>).
+You can find more details about my career like history, certifications, and organizations in my [LinkedIn](https://www.linkedin.com/in/gustavares/) profile.
 
 You can find some code that I shared in my [GitHub Profile](https://github.com/grstavares).
 
