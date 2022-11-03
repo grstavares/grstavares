@@ -15,7 +15,7 @@ I'm Gustavo, here are some highlights of my code career.
 - I worked consulting for multiple Brazilian Federal Government Agencies (Health, Justice, Electoral High Court, and Legislative Chamber).
 - I used the first _Serverless_ framework that was created for AWS: [JAWS](https://aws.amazon.com/blogs/compute/getting-started-with-jaws-on-amazon-web-services/).
 - I put two full _Serverless_ applications in production (one webshop and one Enterprise Application).
-- I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/)](https://aws.amazon.com/developer/community/community-builders/)
+- I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/)
 
 ## Social Presence
 
