@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Profile Image](https://avatars.githubusercontent.com/u/19957969?v=4)
+![Profile Image](./profile.png)
 
 I'm Gustavo, here are some highlights of my code career.
 
@@ -19,14 +19,10 @@ I'm Gustavo, here are some highlights of my code career.
 
 ## Social Presence
 
-You can find more details about my career like history, certifications, and organizations in my [LinkedIn](https://www.linkedin.com/in/gustavares/) profile.
-
-You can find some code that I shared in my [GitHub Profile](https://github.com/grstavares).
-
-From time to time I try to answer some questions in [Stack Overflow](https://stackoverflow.com/users/6471284/gustavo-tavares).
-
-I don't tweet too much, but I constantly retweet things related to Serverless, Brazilian Politics, European Politics, and random jokes and memes at [@grstavares](https://twitter.com/grstavares).
-
-My most active social network is [Untapped](https://untappd.com/user/grstavares).
-
-I'm helping organize Serverless meetups together with some friends at the [Serverless Berlin Meetup](https://www.meetup.com/serverless-berlin/) group.
+- You can find more details about my career, like education, certifications, and organizations, in my [LinkedIn](https://www.linkedin.com/in/gustavares/) profile.
+- You can find some code that I shared in my [GitHub Profile](https://github.com/grstavares).
+- Occasionally, I try to answer some questions in [Stack Overflow](https://stackoverflow.com/users/6471284/gustavo-tavares).
+- I'm not active there, but in the past, I retweeted things mostly related to Serverless, Brazilian Politics, European Politics, and random jokes and memes at [@grstavares](https://twitter.com/grstavares).
+- You can also find me at BlueSky [@grstavares.bsky.social](https://bsky.app/profile/grstavares.bsky.social).
+- My most active social network is [Untapped](https://untappd.com/user/grstavares).
+- I'm part of the [Förderverein AWS Community DACH](https://www.linkedin.com/company/aws-community-dach/), helping organize the Community Lounge at the AWS Summit Germany and the AWS Community Day DACH.
